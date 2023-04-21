@@ -38,6 +38,6 @@ function MyApp() {
 }
 ```
 
-![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=✅+Install+Rangoli+Color+✅;💝+Follow+Us+On+YouTube+💝;😍+Thank+You+😍)
+![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=✅+Install+Date+Picker+✅;💝+Follow+Us+On+YouTube+💝;😍+Thank+You+😍)
 
 <img alt="Input Output Campus" src="https://img.shields.io/youtube/channel/views/UCPCq9PebkjUVKSoqXUu4XDQ?label=Input%20Output%20Campus&style=social">
